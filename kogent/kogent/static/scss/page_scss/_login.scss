@@ -1,0 +1,28 @@
+.login-body {
+	.container-fluid{
+		padding: 20rem 10rem 10rem 10rem;
+
+	    .login-form{
+	    	background-color: $bg-white;
+	    	padding: 2rem 5rem;
+
+	    	h1{
+	    		margin: 2rem;
+	    	}
+
+			.form-group {
+			    padding-top: 0;
+			    position: relative;
+			    font-family: "Gotham A", "Gotham B", sans-serif;
+			    font-size: 1.3rem;
+			    line-height: 2.4rem;
+			    font-weight: 500;
+			}
+
+			.sign-in-btn {
+				width: 100%;
+				margin: 2rem 0rem;
+			}
+	    }
+	}
+}

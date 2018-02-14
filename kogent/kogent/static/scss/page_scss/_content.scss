@@ -1,0 +1,10 @@
+$widget-height: 150px;
+$brand-height: 370px;
+
+.fixed-height-widget {
+  height: $widget-height;
+}
+
+.fixed-height-brand {
+  height: $brand-height;
+}

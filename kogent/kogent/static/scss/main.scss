@@ -1,0 +1,9 @@
+@charset 'utf-8';
+// @import 'bootstrap_scss/bootstrap';
+@import 'css/angular-material';
+
+// Customized global Scss
+@import "global_variables";
+@import "global";
+
+@import "page_scss/content";

@@ -1,0 +1,23 @@
+.tablecontent{
+	padding-top: $navbar-height;
+
+	.input-group{
+		width: 100%;
+	}
+
+	.form-control{
+		border-radius: 4px !important;
+	}
+}
+
+.recordtable{
+	.ui-grid-header-canvas{
+		height: 60px !important;
+	}
+}
+
+.portfolioTable{
+	.ui-grid-header-canvas{
+		height: 30px !important;
+	}
+}
